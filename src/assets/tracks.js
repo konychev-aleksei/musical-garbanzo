@@ -107,4 +107,13 @@ export default [
     title: "Vision",
     artists: "Lost Sky",
   },
+  {
+    id: 13,
+    src: "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/cradles-1586957268-RxHgjX9e14.mp3",
+    preview:
+      "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
+    duration: 210,
+    title: "Cradles",
+    artists: "Sub Urban",
+  },
 ];
